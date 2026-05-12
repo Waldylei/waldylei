@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en el curso de **CS50**.
 
-- 🌱 Estoy aprendiendo **C y Python**.
+- 🌱 Estoy aprendiendo **Python**.
 
 - 📄 Para saber más de mí puedes visitar: [https://waldylei.github.io/](https://waldylei.github.io/)
 
@@ -32,9 +32,6 @@
     </td>
     <td>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    </td>
-    <td>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
     </td>
   </tr>
 </table>
