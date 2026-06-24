@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, mi nombre es Waldylei Yepez</h1>
+<h1 align="center">Hola 👋, mi nombre es Waldylei Yépez</h1>
 <h3 align="center">Soy Lcda. en Ciencias de la Información y Escritora.</h3>
 
 - 🔭 Actualmente estoy haciendo el curso de **CS50**.
