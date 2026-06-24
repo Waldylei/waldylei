@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Waldylei Yepez</h1>
-<h3 align="center">Soy Lcda. en Ciencias de la Información, Escritora y Estudiante de Programación.</h3>
+<h3 align="center">Soy Lcda. en Ciencias de la Información y Escritora.</h3>
 
-- 🔭 Actualmente estoy trabajando en el curso de **CS50**.
+- 🔭 Actualmente estoy haciendo el curso de **CS50**.
 
 - 🌱 Estoy aprendiendo **Python**.
 
