@@ -3,7 +3,9 @@
 
 - 🌱 Me gusta aprender cosas nuevas como programación.
 
-- 📄 Para saber más de mí puedes visitar: [https://waldylei.github.io/](https://waldylei.github.io/)
+- 📄 Puedes visitar mi blog en: [https://code.waldylei.com/](https://code.waldylei.com/)
+
+- 📄 Para saber más sobre mi perfil profesional: [https://waldylei.github.io/](https://waldylei.github.io/)
 
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
